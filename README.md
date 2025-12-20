@@ -1,5 +1,5 @@
 # 💫 Sobre mim / About Me:
-👋 Olá, eu sou @Danbr23<br>📚 Graduando em Engenharia de Computação e Técnico em Informática pelo IFSULDEMINAS - Campus Poços de Caldas<br>🔭 Desenvolvendo o TCC na área de Engenharia de Dados para o Observatório do Turismo do Sul de Minas Gerais<br>📊 Duas iniciações científicas:<br>    * Previsão de deslocamento químico de complexos de Pt195 por meio de Machine Learning<br>    * Desenvolvimento de um brinquedo educativo inteligente com integração de inteligência artificial para respostas Interativas e emocionais    <br>🌱 Me aprofundando cada vez mais em Ciência de Dados, Aprendizado de Máquina e Django Framework<br>💻 Linguagens:<br>    * Python<br>    * Java<br>    * C<br>💡 Portfólio: https://daniel-pe.lovable.app/<br>📪 Contato: <br>    * Email: daniel.pereira@alunos.ifsuldeminas.edu.br<br>    * Linkedin: https://www.linkedin.com/in/daniel-pereira-528035192/<br>⚡ Curiosidade: Ao contrário de muitas pessoas, eu amo Java. (Mas hoje estou focado em Python)
+👋 Olá, eu sou @Danbr23<br>📚 Graduando em Engenharia de Computação e Técnico em Informática pelo IFSULDEMINAS - Campus Poços de Caldas<br>🔭 Desenvolvendo o TCC na área de Engenharia de Dados para o Observatório do Turismo do Sul de Minas Gerais<br>📊 Duas iniciações científicas:<br>    * Previsão de deslocamento químico de complexos de Pt195 por meio de Machine Learning<br>    * Desenvolvimento de um brinquedo educativo com integração de inteligência artificial para respostas Interativas e emocionais    <br>🌱 Me aprofundando cada vez mais em Ciência de Dados, Aprendizado de Máquina e Django Framework<br>💻 Linguagens:<br>    * Python<br>    * Java<br>    * C<br>💡 Portfólio: https://daniel-pe.lovable.app/<br>📪 Contato: <br>    * Email: daniel.pereira@alunos.ifsuldeminas.edu.br<br>    * Linkedin: https://www.linkedin.com/in/daniel-pereira-528035192/<br>⚡ Curiosidade: Ao contrário de muitas pessoas, eu amo Java. (Mas hoje estou focado em Python)
 
 ---
 
@@ -8,7 +8,7 @@
 🔭 Developing my undergraduate thesis (TCC) in the field of Data Engineering for the Tourism Observatory of Southern Minas Gerais<br>
 📊 Two undergraduate research projects:<br>
     * Chemical shift prediction of Pt195 complexes using Machine Learning<br>
-    * Development of an intelligent educational toy with artificial intelligence integration for interactive and emotional responses<br>
+    * Development of an educational toy with artificial intelligence integration for interactive and emotional responses<br>
 🌱 Continuously deepening my knowledge in Data Science, Machine Learning, and the Django Framework<br>
 💻 Programming languages:<br>
     * Python<br>
