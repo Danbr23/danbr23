@@ -1,30 +1,48 @@
 # 💫 Sobre mim / About Me:
-👋 Olá, eu sou @Danbr23<br>📚 Graduando em Engenharia de Computação e Técnico em Informática pelo IFSULDEMINAS - Campus Poços de Caldas<br>🔭 Desenvolvendo o TCC na área de Engenharia de Dados para o Observatório do Turismo do Sul de Minas Gerais<br>📊 Duas iniciações científicas:<br>    * Previsão de deslocamento químico de complexos de Pt195 por meio de Machine Learning<br>    * Desenvolvimento de um brinquedo educativo com integração de inteligência artificial para respostas Interativas e emocionais    <br>🌱 Me aprofundando cada vez mais em Ciência de Dados, Aprendizado de Máquina e Django Framework<br>💻 Linguagens:<br>    * Python<br>    * Java<br>    * C<br>💡 Portfólio: https://daniel-pe.lovable.app/<br>📪 Contato: <br>    * Email: daniel.pereira@alunos.ifsuldeminas.edu.br<br>    * Linkedin: https://www.linkedin.com/in/daniel-pereira-528035192/<br>⚡ Curiosidade: Ao contrário de muitas pessoas, eu amo Java. (Mas hoje estou focado em Python)
+👋 Olá, eu sou @Danbr23<br>
+📚 Graduando em Engenharia de Computação e Técnico em Informática pelo IFSULDEMINAS - Campus Poços de Caldas<br>
+🔭 Desenvolvendo o TCC na área de Engenharia de Dados para o Observatório do Turismo do Sul de Minas Gerais<br>
+
+📊 Duas iniciações científicas:<br>    
+- Previsão de deslocamento químico de complexos de Pt195 por meio de Machine Learning
+- Desenvolvimento de um brinquedo educativo com integração de inteligência artificial para respostas Interativas e emocionais<br>
+
+🌱 Me aprofundando cada vez mais em Ciência de Dados, Aprendizado de Máquina e Django Framework<br>
+
+💻 Linguagens:<br>
+- Python<br>
+-  Java<br>
+-  C<br>
+
+<br>💡 Portfólio: https://daniel-pe.lovable.app/<br>
+  📪 Email: daniel.pereira@alunos.ifsuldeminas.edu.br<br>
+   💻Linkedin: https://www.linkedin.com/in/daniel-pereira-528035192/<br>
+  
+⚡ Curiosidade: Ao contrário de muitas pessoas, eu amo Java. (Mas hoje estou focado em Python)
 
 ---
 
 👋 Hi, I’m @Danbr23<br>
 📚 Undergraduate student in Computer Engineering and IT Technician at IFSULDEMINAS – Poços de Caldas Campus<br>
 🔭 Developing my undergraduate thesis (TCC) in the field of Data Engineering for the Tourism Observatory of Southern Minas Gerais<br>
+
 📊 Two undergraduate research projects:<br>
-    * Chemical shift prediction of Pt195 complexes using Machine Learning<br>
-    * Development of an educational toy with artificial intelligence integration for interactive and emotional responses<br>
+- Chemical shift prediction of Pt195 complexes using Machine Learning<br>
+- Development of an educational toy with artificial intelligence integration for interactive and emotional responses<br>
+
 🌱 Continuously deepening my knowledge in Data Science, Machine Learning, and the Django Framework<br>
+
 💻 Programming languages:<br>
-    * Python<br>
-    * Java<br>
-    * C<br>
+- Python<br>
+- Java<br>
+- C<br>
+
 💡 Portfolio: https://daniel-pe.lovable.app/
 <br>
-📪 Contact:<br>
-    * Email: daniel.pereira@alunos.ifsuldeminas.edu.br
-<br>
-    * LinkedIn: https://www.linkedin.com/in/daniel-pereira-528035192/
-<br>
-⚡ Fun fact: Unlike many people, I love Java. (But today my main focus is Python)
+📪 Email: daniel.pereira@alunos.ifsuldeminas.edu.br<br>
+💻 LinkedIn: https://www.linkedin.com/in/daniel-pereira-528035192/
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/daniel-pereira-528035192/) 
+⚡ Fun fact: Unlike many people, I love Java. (But today my main focus is Python)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
